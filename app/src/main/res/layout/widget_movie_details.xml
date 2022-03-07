@@ -69,7 +69,6 @@
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="5dp"
                     android:gravity="center"
-                    android:text="All of us are dead"
                     android:textColor="@color/white"
                     android:textSize="20sp"
                     android:textStyle="bold"/>
@@ -79,7 +78,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="(2022)"
                     android:textColor="@color/white"
                     android:textSize="20sp" />
 
@@ -187,7 +185,6 @@
                 android:layout_marginStart="20dp"
                 android:layout_marginEnd="20dp"
                 android:textStyle="italic"
-                android:text="The Multiverse unleashed."
                 android:textColor="@color/white"
                 android:textSize="17sp"/>
 
@@ -209,7 +206,6 @@
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="3dp"
                 android:layout_marginBottom="15dp"
-                android:text="Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man."
                 android:textColor="@color/white"
                 android:textSize="17dp"/>
 

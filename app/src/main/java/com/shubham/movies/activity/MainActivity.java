@@ -14,6 +14,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.shubham.movies.R;
 import com.shubham.movies.fragment.LatestMoviesFragment;
@@ -73,6 +74,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         moviesDetailsFragment = new MoviesDetailsFragment();
 
         setFragment(latestMoviesFragment);
+
+        Toast.makeText(activity, "Click on movie to get details", Toast.LENGTH_LONG).show();
     }
 
     @Override
